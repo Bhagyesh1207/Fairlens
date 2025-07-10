@@ -72,7 +72,7 @@ FairLens is built on a robust, scalable, and secure AWS infrastructure that supp
 
 ### 🗺️ Architecture Diagram
 
-![AWS Cloud Architecture](./Images/Colud Architecture.png)
+![AWS Cloud Architecture](./Images/CloudArchitecture.png)
 
 > This architecture ensures seamless integration, low-latency performance, and secure handling of sensitive candidate data.
 
