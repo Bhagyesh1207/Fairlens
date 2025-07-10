@@ -2,7 +2,7 @@
 
 FairLens is a cloud-based AI platform designed to promote **diversity**, **equity**, and **inclusion (DEI)** in hiring. It uses advanced machine learning models and LLMs to analyze resumes, detect biases, and provide fair candidate shortlisting — all while respecting privacy through PII anonymization.
 
-![Home Page](./Images/Home page.png)
+![Home Page](./Images/HomePage.png)
 ---
 
 ## 🧠 Key Features
@@ -22,25 +22,25 @@ FairLens is a cloud-based AI platform designed to promote **diversity**, **equit
 ![Login Page](./Images/LoginPage.png)
 
 ### 🎯 Diversity Goal Setup
-![Diversity Goal Setup](./Images/Diversity Goal Setup.png)
+![Diversity Goal Setup](./Images/DiversityGoalSetup.png)
 
 ### 🏠 Home Page
-![Home Page](./Images/Home page.png)
+![Home Page](./Images/HomePage.png)
 
 ### 📋 Job and Resume Management Dashboard
-![Job and Resume Management Dashboard](./Images/Job and Resume Management Dashboard.png)
+![Job and Resume Management Dashboard](./Images/JobAndResumeManagementDashboard.png)
 
 ### 📊 HR Analytics Dashboard
-![HR Analytics Dashboard](./Images/HR Analytics Dashboard.png)
+![HR Analytics Dashboard](./Images/HRAnalyticsDashboard.png)
 
 ### 📈 Resume Analysis Based on Diversity Goals
-![Resume analysis according to diversity goal](./Images/Resume analysis according to diversity goal.png)
+![Resume analysis according to diversity goal](./Images/ResumeAnalysisAccordingToDiversityGoal.png)
 
 ### 🧠 Individual Resume Analysis (v1)
-![Individual Resume Analysis](./Images/individual resume analysis dashboard.png)
+![Individual Resume Analysis](./Images/IndividualResumeAnalysisDashboard.png)
 
 ### 🧠 Individual Resume Analysis (v2)
-![Individual Resume Analysis 2](./Images/individual resume analysis dashboard-2.png)
+![Individual Resume Analysis 2](./Images/IndividualResumeAnalysisDashboard2.png)
 
 
 ---
